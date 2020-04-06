@@ -1,0 +1,512 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 2 3
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Connection ~ 4250 4550
+Connection ~ 9550 3100
+Connection ~ 9550 4600
+Connection ~ 10300 3850
+Connection ~ 10300 3750
+Connection ~ 10300 3100
+Connection ~ 10300 3650
+Connection ~ 2200 6700
+Connection ~ 2500 4450
+Connection ~ 2500 4550
+Connection ~ 2500 4650
+Wire Wire Line
+	1950 3950 1950 6700
+Wire Wire Line
+	1950 6700 2200 6700
+Wire Wire Line
+	2200 6650 2200 6700
+Wire Wire Line
+	2200 6700 2200 6800
+Wire Wire Line
+	2200 6700 2400 6700
+Wire Wire Line
+	2400 3950 1950 3950
+Wire Wire Line
+	2400 4150 2400 3950
+Wire Wire Line
+	2400 4250 2600 4250
+Wire Wire Line
+	2400 4350 3750 4350
+Wire Wire Line
+	2400 4450 2500 4450
+Wire Wire Line
+	2400 4550 2500 4550
+Wire Wire Line
+	2400 4650 2500 4650
+Wire Wire Line
+	2400 4750 2500 4750
+Wire Wire Line
+	2400 4850 3550 4850
+Wire Wire Line
+	2400 4950 3350 4950
+Wire Wire Line
+	2400 5050 2600 5050
+Wire Wire Line
+	2400 5150 2600 5150
+Wire Wire Line
+	2400 5250 2600 5250
+Wire Wire Line
+	2400 5350 2600 5350
+Wire Wire Line
+	2400 5450 2600 5450
+Wire Wire Line
+	2400 5550 4900 5550
+Wire Wire Line
+	2400 5750 5100 5750
+Wire Wire Line
+	2400 5850 5200 5850
+Wire Wire Line
+	2400 5950 5300 5950
+Wire Wire Line
+	2400 6150 5500 6150
+Wire Wire Line
+	2400 6350 2600 6350
+Wire Wire Line
+	2400 6700 2400 6450
+Wire Wire Line
+	2500 4450 2500 4550
+Wire Wire Line
+	2500 4450 2600 4450
+Wire Wire Line
+	2500 4650 2500 4550
+Wire Wire Line
+	2500 4750 2500 4650
+Wire Wire Line
+	3350 5250 3350 5300
+Wire Wire Line
+	3550 4850 3550 5300
+Wire Wire Line
+	3750 4350 3750 4650
+Wire Wire Line
+	3750 4950 3750 5300
+Wire Wire Line
+	4250 4200 4250 4550
+Wire Wire Line
+	4250 4550 4250 4650
+Wire Wire Line
+	4250 4550 4650 4550
+Wire Wire Line
+	4250 4950 4250 5000
+Wire Wire Line
+	4500 4750 4500 5000
+Wire Wire Line
+	4650 4750 4500 4750
+Wire Wire Line
+	4900 5100 6000 5100
+Wire Wire Line
+	4900 5550 4900 5100
+Wire Wire Line
+	5000 5200 5000 5650
+Wire Wire Line
+	5000 5200 6000 5200
+Wire Wire Line
+	5000 5650 2400 5650
+Wire Wire Line
+	5100 5300 6000 5300
+Wire Wire Line
+	5100 5750 5100 5300
+Wire Wire Line
+	5200 5400 6000 5400
+Wire Wire Line
+	5200 5850 5200 5400
+Wire Wire Line
+	5300 5500 6000 5500
+Wire Wire Line
+	5300 5950 5300 5500
+Wire Wire Line
+	5400 5600 5400 6050
+Wire Wire Line
+	5400 5600 6000 5600
+Wire Wire Line
+	5400 6050 2400 6050
+Wire Wire Line
+	5500 5700 6000 5700
+Wire Wire Line
+	5500 6150 5500 5700
+Wire Wire Line
+	5600 4400 6000 4400
+Wire Wire Line
+	5600 4500 6000 4500
+Wire Wire Line
+	5600 4600 6000 4600
+Wire Wire Line
+	5600 4700 6000 4700
+Wire Wire Line
+	5600 4800 6000 4800
+Wire Wire Line
+	5600 4900 6000 4900
+Wire Wire Line
+	5600 5800 5600 6250
+Wire Wire Line
+	5600 6250 2400 6250
+Wire Wire Line
+	5650 1250 6000 1250
+Wire Wire Line
+	5650 1350 6000 1350
+Wire Wire Line
+	5650 1450 6000 1450
+Wire Wire Line
+	5650 1550 6000 1550
+Wire Wire Line
+	5650 1650 6000 1650
+Wire Wire Line
+	5650 1750 6000 1750
+Wire Wire Line
+	5650 2050 6000 2050
+Wire Wire Line
+	5650 2150 6000 2150
+Wire Wire Line
+	5650 2250 6000 2250
+Wire Wire Line
+	5650 2350 6000 2350
+Wire Wire Line
+	5650 2850 6000 2850
+Wire Wire Line
+	5650 2950 6000 2950
+Wire Wire Line
+	5650 3050 6000 3050
+Wire Wire Line
+	5650 3150 6000 3150
+Wire Wire Line
+	5650 3250 6000 3250
+Wire Wire Line
+	5650 3350 6000 3350
+Wire Wire Line
+	5650 3650 6000 3650
+Wire Wire Line
+	5650 3750 6000 3750
+Wire Wire Line
+	5650 3850 6000 3850
+Wire Wire Line
+	6000 5800 5600 5800
+Wire Wire Line
+	8400 3650 8950 3650
+Wire Wire Line
+	8400 3750 8950 3750
+Wire Wire Line
+	8400 3850 8600 3850
+Wire Wire Line
+	8400 3950 8600 3950
+Wire Wire Line
+	9450 3100 9450 3350
+Wire Wire Line
+	9450 3100 9550 3100
+Wire Wire Line
+	9450 4550 9450 4600
+Wire Wire Line
+	9450 4600 9550 4600
+Wire Wire Line
+	9550 2950 9550 3100
+Wire Wire Line
+	9550 3100 9550 3350
+Wire Wire Line
+	9550 3100 10300 3100
+Wire Wire Line
+	9550 4550 9550 4600
+Wire Wire Line
+	9550 4600 9550 4650
+Wire Wire Line
+	10150 3650 10300 3650
+Wire Wire Line
+	10150 3750 10300 3750
+Wire Wire Line
+	10150 3850 10300 3850
+Wire Wire Line
+	10150 4050 10400 4050
+Wire Wire Line
+	10150 4150 10400 4150
+Wire Wire Line
+	10150 4250 10400 4250
+Wire Wire Line
+	10300 3100 10300 3200
+Wire Wire Line
+	10300 3100 10500 3100
+Wire Wire Line
+	10300 3500 10300 3650
+Wire Wire Line
+	10300 3650 10500 3650
+Wire Wire Line
+	10300 3750 10300 3650
+Wire Wire Line
+	10300 3750 10300 3850
+Wire Wire Line
+	10500 3200 10500 3100
+Wire Wire Line
+	10500 3500 10500 3650
+Text Notes 1100 4750 0    50   ~ 0
+PIN 6&7 HIGH\n= 8-bit 8080 MODE
+Text Notes 5350 4200 2    50   ~ 0
+SPI FLASH
+Text Notes 10750 4400 2    50   ~ 0
+CS HIGH FOR I2C
+Text GLabel 2600 4250 2    50   Input ~ 0
+LCD_14V5
+Text GLabel 2600 4450 2    50   Input ~ 0
+1V8
+Text GLabel 2600 5050 2    50   Input ~ 0
+LCD_CS#
+Text GLabel 2600 5150 2    50   Input ~ 0
+LCD_RST#
+Text GLabel 2600 5250 2    50   Input ~ 0
+LCD_DAT|CMD#
+Text GLabel 2600 5350 2    50   Input ~ 0
+LCD_W#
+Text GLabel 2600 5450 2    50   Input ~ 0
+LCD_R#
+Text GLabel 2600 6350 2    50   Input ~ 0
+LCD_14V5
+Text GLabel 4250 4200 1    50   Input ~ 0
+1V8
+Text GLabel 5650 1250 0    50   Input ~ 0
+JTAG_TCLK
+Text GLabel 5650 1350 0    50   Input ~ 0
+JTAG_TDI
+Text GLabel 5650 1450 0    50   Input ~ 0
+JTAG_TMS
+Text GLabel 5650 1550 0    50   Input ~ 0
+JTAG_TDO
+Text GLabel 5650 1650 0    50   Input ~ 0
+K210_RX
+Text GLabel 5650 1750 0    50   Input ~ 0
+K210_TX
+Text GLabel 5650 2050 0    50   Input ~ 0
+LCD_CS#
+Text GLabel 5650 2150 0    50   Input ~ 0
+LCD_W#
+Text GLabel 5650 2250 0    50   Input ~ 0
+LCD_R#
+Text GLabel 5650 2350 0    50   Input ~ 0
+LCD_DAT|CMD#
+Text GLabel 5650 2850 0    50   Input ~ 0
+ESP_SPI_CLK
+Text GLabel 5650 2950 0    50   Input ~ 0
+ESP_SPI_MOSI
+Text GLabel 5650 3050 0    50   Input ~ 0
+ESP_SPI_MISO
+Text GLabel 5650 3150 0    50   Input ~ 0
+ESP_SPI_CS
+Text GLabel 5650 3250 0    50   Input ~ 0
+ESP_GPIO1
+Text GLabel 5650 3350 0    50   Input ~ 0
+ESP_GPIO2
+Text GLabel 5650 3650 0    50   Input ~ 0
+BUTTON1
+Text GLabel 5650 3750 0    50   Input ~ 0
+BUTTON2
+Text GLabel 5650 3850 0    50   Input ~ 0
+IMU_INT
+Text GLabel 8600 3850 2    50   Input ~ 0
+IMU_SDA
+Text GLabel 8600 3950 2    50   Input ~ 0
+IMU_SCL
+Text GLabel 9550 2950 1    50   Input ~ 0
+1V8
+Text GLabel 10400 4050 2    50   Input ~ 0
+IMU_SDA
+Text GLabel 10400 4150 2    50   Input ~ 0
+IMU_SCL
+Text GLabel 10400 4250 2    50   Input ~ 0
+1V8
+$Comp
+L power:GND #PWR0101
+U 1 1 5EB351B6
+P 2200 6800
+F 0 "#PWR0101" H 2200 6550 50  0001 C CNN
+F 1 "GND" H 2200 6646 50  0000 C CNN
+F 2 "" H 2200 6800 50  0001 C CNN
+F 3 "" H 2200 6800 50  0001 C CNN
+	1    2200 6800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0102
+U 1 1 5EB8737E
+P 3350 5300
+F 0 "#PWR0102" H 3350 5050 50  0001 C CNN
+F 1 "GND" H 3350 5146 50  0000 C CNN
+F 2 "" H 3350 5300 50  0001 C CNN
+F 3 "" H 3350 5300 50  0001 C CNN
+	1    3350 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0103
+U 1 1 5EB819C7
+P 3550 5300
+F 0 "#PWR0103" H 3550 5050 50  0001 C CNN
+F 1 "GND" H 3550 5146 50  0000 C CNN
+F 2 "" H 3550 5300 50  0001 C CNN
+F 3 "" H 3550 5300 50  0001 C CNN
+	1    3550 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0104
+U 1 1 5EB5630E
+P 3750 5300
+F 0 "#PWR0104" H 3750 5050 50  0001 C CNN
+F 1 "GND" H 3750 5146 50  0000 C CNN
+F 2 "" H 3750 5300 50  0001 C CNN
+F 3 "" H 3750 5300 50  0001 C CNN
+	1    3750 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0105
+U 1 1 5E982078
+P 4250 5000
+F 0 "#PWR0105" H 4250 4750 50  0001 C CNN
+F 1 "GND" H 4250 4846 50  0000 C CNN
+F 2 "" H 4250 5000 50  0001 C CNN
+F 3 "" H 4250 5000 50  0001 C CNN
+	1    4250 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0106
+U 1 1 5E975272
+P 4500 5000
+F 0 "#PWR0106" H 4500 4750 50  0001 C CNN
+F 1 "GND" H 4500 4846 50  0000 C CNN
+F 2 "" H 4500 5000 50  0001 C CNN
+F 3 "" H 4500 5000 50  0001 C CNN
+	1    4500 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0107
+U 1 1 5EAB3945
+P 9550 4650
+F 0 "#PWR0107" H 9550 4400 50  0001 C CNN
+F 1 "GND" H 9550 4496 50  0000 C CNN
+F 2 "" H 9550 4650 50  0001 C CNN
+F 3 "" H 9550 4650 50  0001 C CNN
+	1    9550 4650
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0108
+U 1 1 5EAC1BBD
+P 10300 3850
+F 0 "#PWR0108" H 10300 3600 50  0001 C CNN
+F 1 "GND" H 10300 3696 50  0000 C CNN
+F 2 "" H 10300 3850 50  0001 C CNN
+F 3 "" H 10300 3850 50  0001 C CNN
+	1    10300 3850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_US R1
+U 1 1 5EB82B2E
+P 3350 5100
+F 0 "R1" H 3500 5050 50  0000 R CNN
+F 1 "?" H 3450 5200 50  0000 R CNN
+F 2 "" V 3390 5090 50  0001 C CNN
+F 3 "~" H 3350 5100 50  0001 C CNN
+	1    3350 5100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C1
+U 1 1 5EB52F95
+P 3750 4800
+F 0 "C1" H 3865 4755 50  0000 L CNN
+F 1 "100nF" H 3865 4845 50  0000 L CNN
+F 2 "" H 3788 4650 50  0001 C CNN
+F 3 "~" H 3750 4800 50  0001 C CNN
+	1    3750 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C2
+U 1 1 5E97DA2D
+P 4250 4800
+F 0 "C2" H 4350 4810 50  0000 L CNN
+F 1 "100nF" H 4300 4940 50  0000 L CNN
+F 2 "" H 4288 4650 50  0001 C CNN
+F 3 "~" H 4250 4800 50  0001 C CNN
+	1    4250 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C3
+U 1 1 5EACAFF2
+P 10300 3350
+F 0 "C3" H 10415 3305 50  0000 L CNN
+F 1 "100nF" H 10415 3395 50  0000 L CNN
+F 2 "" H 10338 3200 50  0001 C CNN
+F 3 "~" H 10300 3350 50  0001 C CNN
+	1    10300 3350
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:C C4
+U 1 1 5EACCA9A
+P 10500 3350
+F 0 "C4" H 10615 3305 50  0000 L CNN
+F 1 "100nF" H 10615 3395 50  0000 L CNN
+F 2 "" H 10538 3200 50  0001 C CNN
+F 3 "~" H 10500 3350 50  0001 C CNN
+	1    10500 3350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Memory_Flash:GD25LQ128D U2
+U 1 1 5E970C62
+P 5150 4650
+F 0 "U2" H 4650 5022 50  0000 C CNN
+F 1 "GD25LQ128D" H 5150 5054 50  0000 C CNN
+F 2 "" H 5200 4750 50  0001 C CNN
+F 3 "http://www.gigadevice.com/datasheet/gd25lq128d/" H 5150 4150 50  0001 C CNN
+	1    5150 4650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic_MountingPin:Conn_01x24_MountingPin J1
+U 1 1 5EAE62DE
+P 2200 5250
+F 0 "J1" H 2306 4018 50  0000 C CNN
+F 1 "Conn_01x24_MountingPin" V 2324 5298 50  0000 C CNN
+F 2 "" H 2200 5250 50  0001 C CNN
+F 3 "~" H 2200 5250 50  0001 C CNN
+	1    2200 5250
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Sensor_Motion:LSM6DS3 U3
+U 1 1 5EA9FC8D
+P 9550 3950
+F 0 "U3" H 9400 4492 50  0000 C CNN
+F 1 "LSM6DS3" H 9300 3423 50  0000 C CNN
+F 2 "Package_LGA:LGA-14_3x2.5mm_P0.5mm_LayoutBorder3x4y" H 9150 3250 50  0001 L CNN
+F 3 "www.st.com/resource/en/datasheet/lsm6ds3.pdf" H 9650 3300 50  0001 C CNN
+	1    9550 3950
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Kendryte:K210 U1
+U 2 1 5E8F30E2
+P 7200 3150
+F 0 "U1" H 7200 886 50  0000 C CNN
+F 1 "K210" H 7200 977 50  0000 C CNN
+F 2 "" H 7900 5050 50  0001 C CNN
+F 3 "https://s3.cn-north-1.amazonaws.com.cn/dl.kendryte.com/documents/kendryte_datasheet_20181011163248_en.pdf" H 7900 5050 50  0001 C CNN
+	2    7200 3150
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC

@@ -1,0 +1,146 @@
+A1 IO_37 I/O Multifunctional IO (FPIOA)（Bank 6，Group C） GPIOHS21
+A2 IO_36 I/O Multifunctional IO (FPIOA)（Bank 6，Group C） GPIOHS20
+A3 IO_35 I/O Multifunctional IO (FPIOA)（Bank 5，Group B） GPIOHS19
+A4 IO_33 I/O Multifunctional IO (FPIOA)（Bank 5，Group B） GPIOHS17
+A5 IO_31 I/O Multifunctional IO (FPIOA)（Bank 5，Group B） GPIOHS15
+A6 IO_29 I/O Multifunctional IO (FPIOA)（Bank 4，Group B） GPIOHS13
+A7 IO_27 I/O Multifunctional IO (FPIOA)（Bank 4，Group B） GPIOHS11
+A8 IO_25 I/O Multifunctional IO (FPIOA)（Bank 4，Group B） GPIOHS9
+A9 IO_23 I/O Multifunctional IO (FPIOA)（Bank 3，Group B） GPIOHS7
+A10 IO_21 I/O Multifunctional IO (FPIOA)（Bank 3，Group B） GPIOHS5
+A11 IO_19 I/O Multifunctional IO (FPIOA)（Bank 3，Group B） GPIOHS3
+A12 IO_17 I/O Multifunctional IO (FPIOA)（Bank 2，Group A） GPIOHS1
+B1 IO_39 I/O Multifunctional IO (FPIOA)（Bank 6，Group C） GPIOHS23
+B2 IO_38 I/O Multifunctional IO (FPIOA)（Bank 6，Group C） GPIOHS22
+B3 IO_34 I/O Multifunctional IO (FPIOA)（Bank 5，Group B） GPIOHS18
+B4 IO_32 I/O Multifunctional IO (FPIOA)（Bank 5，Group B） GPIOHS16
+B5 IO_30 I/O Multifunctional IO (FPIOA)（Bank 5，Group B） GPIOHS14
+B6 IO_28 I/O Multifunctional IO (FPIOA)（Bank 4，Group B） GPIOHS12
+B7 IO_26 I/O Multifunctional IO (FPIOA)（Bank 4，Group B） GPIOHS10
+B8 IO_24 I/O Multifunctional IO (FPIOA)（Bank 4，Group B） GPIOHS8
+B9 IO_22 I/O Multifunctional IO (FPIOA)（Bank 3，Group B） GPIOHS6
+B10 IO_20 I/O Multifunctional IO (FPIOA)（Bank 3，Group B） GPIOHS4
+B11 IO_18 I/O Multifunctional IO (FPIOA)（Bank 3，Group B） GPIOHS2
+B12 IO_16 I/O Multifunctional IO (FPIOA)（Bank 2，Group A） GPIOHS0（ISP）
+C1 IO_41 I/O Multifunctional IO (FPIOA)（Bank 6，Group C） GPIOHS25
+C2 IO_40 I/O Multifunctional IO (FPIOA)（Bank 6，Group C） GPIOHS24
+C3 VSS S Ground VSS
+C4 VSS S Ground VSS
+C5 VDDIO5B S 3.3V/1.8V supply for FPIOA IO（Bank 5，Group B） VDDIO33
+C6 VSS S Ground VSS
+C7 VDDIO4B S 3.3V/1.8V supply for FPIOA IO（Bank 4，Group B） VDDIO33
+C8 VDDIO3B S 3.3V/1.8V supply for FPIOA IO（Bank 3，Group B） VDDIO33
+C9 VSS S Ground VSS
+C10 VSS S Ground VSS
+C11 IO_14 I/O Multifunctional IO (FPIOA)（Bank 2，Group A） GPIO6
+Chapter2 Pin Specifications 8
+Ball Name Type Function Reset State
+C12 IO_15 I/O Multifunctional IO (FPIOA)（Bank 2，Group A） GPIO7
+D1 IO_43 I/O Multifunctional IO (FPIOA)（Bank 7，Group C） GPIOHS27
+D2 IO_42 I/O Multifunctional IO (FPIOA)（Bank 7，Group C） GPIOHS26
+D3 VDDIO6C S 3.3V/1.8V supply for FPIOA IO（Bank 6，Group C） VDDIO33
+D4 VDD S 0.9V digital core supply VDD
+D5 VSS S Ground VSS
+D6 VDD S 0.9V digital core supply VDD
+D7 VSS S Ground VSS
+D8 VSS S Ground VSS
+D9 VDD S 0.9V digital core supply VDD
+D10 VDDIO2A S 3.3V/1.8V supply for FPIOA IO（Bank 2，Group A） VDDIO33
+D11 IO_12 I/O Multifunctional IO (FPIOA)（Bank 2，Group A） GPIO4
+D12 IO_13 I/O Multifunctional IO (FPIOA)（Bank 2，Group A） GPIO5
+E1 IO_45 I/O Multifunctional IO (FPIOA)（Bank 7，Group C） GPIOHS29
+E2 IO_44 I/O Multifunctional IO (FPIOA)（Bank 7，Group C） GPIOHS28
+E3 VSS S Ground VSS
+E4 VSS S Ground VSS
+E5 VSS S Ground VSS
+E6 VSS S Ground VSS
+E7 VDD S 0.9V digital core supply VDD
+E8 VSS S Ground VSS
+E9 VDD S 0.9V digital core supply VDD
+E10 VSS S Ground VSS
+E11 IO_10 I/O Multifunctional IO (FPIOA)（Bank 1，Group A） GPIO2
+E12 IO_11 I/O Multifunctional IO (FPIOA)（Bank 1，Group A） GPIO3
+F1 IO_47 I/O Multifunctional IO (FPIOA)（Bank 7，Group C） GPIOHS31
+F2 IO_46 I/O Multifunctional IO (FPIOA)（Bank 7，Group C） GPIOHS30
+F3 VDDIO7C S 3.3V/1.8V supply for FPIOA IO（Bank 7，Group C） VDDIO33
+F4 VDD S 0.9V digital core supply VDD
+F5 VSS S Ground VSS
+F6 VDD S 0.9V digital core supply VDD
+F7 VSS S Ground VSS
+F8 VSS S Ground VSS
+F9 VSS S Ground VSS
+F10 VSS S Ground VSS
+Chapter2 Pin Specifications 9
+Ball Name Type Function Reset State
+F11 IO_8 I/O Multifunctional IO (FPIOA)（Bank 1，Group A） GPIO0
+F12 IO_9 I/O Multifunctional IO (FPIOA)（Bank 1，Group A） GPIO1
+G1 F_D1 I/O Dedicated SPI GPIO (1.8V only) F_D1
+G2 F_CS O Dedicated SPI GPIO (1.8V only) F_CS
+G3 VSS S Ground VSS
+G4 VSS S Ground VSS
+G5 VSS S Ground VSS
+G6 VSS S Ground VSS
+G7 VDD S 0.9V digital core supply VDD
+G8 VSS S Ground VSS
+G9 VDD S 0.9V digital core supply VDD
+G10 VDDIO1A S 3.3V/1.8V supply for FPIOA IO（Bank 1，Group A） VDDIO33
+G11 IO_6 I/O Multifunctional IO (FPIOA)（Bank 1，Group A） (FLOAT*)
+G12 IO_7 I/O Multifunctional IO (FPIOA)（Bank 1，Group A） (FLOAT*)
+H1 F_D2 I/O Dedicated SPI GPIO (1.8V only) F_D2
+H2 VSS S Ground VSS
+H3 VDDIO18 S 1.8V supply for low voltage IO VDDIO18
+H4 VDD S 0.9V digital core supply VDD
+H5 VSS S Ground VSS
+H6 VDD S 0.9V digital core supply VDD
+H7 VSS S Ground VSS
+H8 VSS S Ground VSS
+H9 VSS S Ground VSS
+H10 VDDIO0A S 3.3V/1.8V supply for FPIOA IO(Bank 0，Group A) VDDIO33
+H11 IO_4 I/O Multifunctional IO (FPIOA)（Bank 0，Group A） UARTHS_RX（ISP）
+H12 IO_5 I/O Multifunctional IO (FPIOA)（Bank 0，Group A） UARTHS_TX（ISP）
+J1 F_D0 I/O Dedicated SPI GPIO (1.8V only) F_D0
+J2 VSS S Ground VSS
+J3 VDDOTP S 1.8V OTP supply VDDOTP
+J4 VSS S Ground VSS
+J5 VDD S 0.9V digital core supply VDD
+J6 VSS S Ground VSS
+J7 VDD S 0.9V digital core supply VDD
+J8 VSS S Ground VSS
+J9 VDD S 0.9V digital core supply VDD
+Chapter2 Pin Specifications 10
+Ball Name Type Function Reset State
+J10 VSS S Ground VSS
+J11 IO_2 I/O Multifunctional IO (FPIOA)（Bank 0，Group A） JTAG_TMS
+J12 IO_3 I/O Multifunctional IO (FPIOA)（Bank 0，Group A） JTAG_TDO
+K1 F_CLK O Dedicated SPI GPIO (1.8V only) F_CLK
+K2 VSS S Ground VSS
+K3 VSS S Ground VSS
+K4 VSSPLL S PLL analog ground, noise sensitive VSSPLL
+K5 VSS S Ground VSS
+K6 VDDIO18 S 1.8V supply for low voltage IO VDDIO18
+K7 VSS S Ground VSS
+K8 VDDIO18 S 1.8V supply for low voltage IO VDDIO18
+K9 VSS S Ground VSS
+K10 VSS S Ground VSS
+K11 IO_0 I/O Multifunctional IO (FPIOA)（Bank 0，Group A） JTAG_TCLK
+K12 IO_1 I/O Multifunctional IO (FPIOA)（Bank 0，Group A） JTAG_TDI
+L1 F_D3 I/O Dedicated SPI GPIO (1.8V only) F_D3
+L2 VSS S Ground VSS
+L3 OSC_CLK O Active oscillator output OSC_CLK
+L4 VDDPLL S 0.9V PLL Analog Supply VDDPLL
+L5 SPI0_D7 O Dedicated SPI0 D7 output (FLOAT*)
+L6 SPI0_D6 O Dedicated SPI0 D6 output (FLOAT*)
+L7 SPI0_D5 O Dedicated SPI0 D5 output (FLOAT*)
+L8 SPI0_D4 O Dedicated SPI0 D4 output (FLOAT*)
+L9 SPI0_D3 O Dedicated SPI0 D3 output (FLOAT*)
+L10 SPI0_D2 O Dedicated SPI0 D2 output (FLOAT*)
+L11 SPI0_D1 O Dedicated SPI0 D1 output (FLOAT*)
+L12 SPI0_D0 O Dedicated SPI0 D0 output (FLOAT*)
+M1 RESET I System Reset, active low RESET
+M2 CLK I System Clock input CLK
+M3 XTAL_OUT O Passive Crystal Oscillator output (crystal only) XTAL_OUT
+M4 XTAL_IN I Passive Crystal Oscillator input (crystal only) XTAL_IN
+M5 DVP_D7 I Dedicated DVP D7 input (FLOAT*)
+M6 DVP_D6 I Dedicated DVP D6 input (FLOAT*)
+M7 DVP_D5 I Dedicated DVP D5 input (FLOAT*)
+M8 DVP_D4 I Dedicated DVP D4 input (FLOAT*)
