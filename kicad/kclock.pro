@@ -1,4 +1,4 @@
-update=Monday, April 06, 2020 at 02:08:09 PM
+update=Monday, April 06, 2020 at 03:16:29 PM
 version=1
 last_client=kicad
 [general]
@@ -256,3 +256,13 @@ dPairViaGap=0.25
 version=1
 [LibeditFrame]
 version=1
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=/Users/eddie/Documents/kclock/kclock_sch.pdf
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceAjustPassiveValues=0
+LabSize=50
+ERC_TestSimilarLabels=1
