@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 3 3
+Sheet 3 4
 Title ""
 Date ""
 Rev ""
@@ -136,7 +136,7 @@ Wire Wire Line
 Wire Wire Line
 	4550 5700 4800 5700
 Wire Wire Line
-	4600 2350 4800 2350
+	4650 2350 4800 2350
 Wire Wire Line
 	4650 3850 4800 3850
 Wire Wire Line
@@ -453,7 +453,7 @@ Text GLabel 2900 5050 0    50   Input ~ 0
 1V8
 Text GLabel 4050 5300 0    50   Input ~ 0
 0V9
-Text GLabel 4600 2350 0    50   Input ~ 0
+Text GLabel 4650 2350 0    50   Input ~ 0
 0V9
 Text GLabel 4650 3850 0    50   Input ~ 0
 3V3
@@ -803,4 +803,30 @@ F 3 "https://s3.cn-north-1.amazonaws.com.cn/dl.kendryte.com/documents/kendryte_d
 	1    5700 3650
 	1    0    0    -1  
 $EndComp
+Text GLabel 4800 1700 0    50   Input ~ 0
+K210_RST#
+Wire Wire Line
+	4800 1700 4950 1700
+Text GLabel 4750 1200 0    50   Input ~ 0
+1V8
+$Comp
+L Device:R_US R?
+U 1 1 5EB28978
+P 4950 1450
+F 0 "R?" H 5018 1496 50  0000 L CNN
+F 1 "100k" H 5018 1405 50  0000 L CNN
+F 2 "" V 4990 1440 50  0001 C CNN
+F 3 "~" H 4950 1450 50  0001 C CNN
+	1    4950 1450
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4950 1300 4950 1200
+Wire Wire Line
+	4950 1200 4750 1200
+Wire Wire Line
+	4950 1600 4950 1700
+Connection ~ 4950 1700
+Wire Wire Line
+	4950 1700 5050 1700
 $EndSCHEMATC

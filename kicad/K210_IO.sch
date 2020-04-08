@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 2 3
+Sheet 2 4
 Title ""
 Date ""
 Rev ""
@@ -191,17 +191,11 @@ Wire Wire Line
 Wire Wire Line
 	5650 3750 6000 3750
 Wire Wire Line
-	5650 3850 6000 3850
-Wire Wire Line
 	6000 5800 5600 5800
 Wire Wire Line
 	8400 3650 8950 3650
 Wire Wire Line
 	8400 3750 8950 3750
-Wire Wire Line
-	8400 3850 8600 3850
-Wire Wire Line
-	8400 3950 8600 3950
 Wire Wire Line
 	9450 3100 9450 3350
 Wire Wire Line
@@ -227,12 +221,6 @@ Wire Wire Line
 Wire Wire Line
 	10150 3850 10300 3850
 Wire Wire Line
-	10150 4050 10400 4050
-Wire Wire Line
-	10150 4150 10400 4150
-Wire Wire Line
-	10150 4250 10400 4250
-Wire Wire Line
 	10300 3100 10300 3200
 Wire Wire Line
 	10300 3100 10500 3100
@@ -252,8 +240,8 @@ Text Notes 1100 4750 0    50   ~ 0
 PIN 6&7 HIGH\n= 8-bit 8080 MODE
 Text Notes 5350 4200 2    50   ~ 0
 SPI FLASH
-Text Notes 10750 4400 2    50   ~ 0
-CS HIGH FOR I2C
+Text Notes 8700 4400 0    50   ~ 0
+CS HIGH\nFOR I2C
 Text GLabel 2600 4250 2    50   Input ~ 0
 LCD_14V5
 Text GLabel 2600 4450 2    50   Input ~ 0
@@ -273,17 +261,17 @@ LCD_14V5
 Text GLabel 4250 4200 1    50   Input ~ 0
 1V8
 Text GLabel 5650 1250 0    50   Input ~ 0
-JTAG_TCLK
+K210_JTAG_TCLK
 Text GLabel 5650 1350 0    50   Input ~ 0
-JTAG_TDI
+K210_JTAG_TDI
 Text GLabel 5650 1450 0    50   Input ~ 0
-JTAG_TMS
+K210_JTAG_TMS
 Text GLabel 5650 1550 0    50   Input ~ 0
-JTAG_TDO
+K210_JTAG_TDO
 Text GLabel 5650 1650 0    50   Input ~ 0
-K210_RX
+K210_UART_RX
 Text GLabel 5650 1750 0    50   Input ~ 0
-K210_TX
+K210_UART_TX
 Text GLabel 5650 2050 0    50   Input ~ 0
 LCD_CS#
 Text GLabel 5650 2150 0    50   Input ~ 0
@@ -301,26 +289,16 @@ ESP_SPI_MISO
 Text GLabel 5650 3150 0    50   Input ~ 0
 ESP_SPI_CS
 Text GLabel 5650 3250 0    50   Input ~ 0
-ESP_GPIO1
+K210_BOOT
 Text GLabel 5650 3350 0    50   Input ~ 0
-ESP_GPIO2
+ESP_BOOT
 Text GLabel 5650 3650 0    50   Input ~ 0
 BUTTON1
 Text GLabel 5650 3750 0    50   Input ~ 0
 BUTTON2
-Text GLabel 5650 3850 0    50   Input ~ 0
-IMU_INT
-Text GLabel 8600 3850 2    50   Input ~ 0
-IMU_SDA
-Text GLabel 8600 3950 2    50   Input ~ 0
-IMU_SCL
 Text GLabel 9550 2950 1    50   Input ~ 0
 1V8
-Text GLabel 10400 4050 2    50   Input ~ 0
-IMU_SDA
-Text GLabel 10400 4150 2    50   Input ~ 0
-IMU_SCL
-Text GLabel 10400 4250 2    50   Input ~ 0
+Text GLabel 8900 4150 0    50   Input ~ 0
 1V8
 $Comp
 L power:GND #PWR0101
@@ -509,4 +487,34 @@ F 3 "https://s3.cn-north-1.amazonaws.com.cn/dl.kendryte.com/documents/kendryte_d
 	2    7200 3150
 	1    0    0    -1  
 $EndComp
+Text GLabel 5650 2450 0    50   Input ~ 0
+LCD_RST#
+Wire Wire Line
+	5650 2450 6000 2450
+Text GLabel 8600 1750 2    50   Input ~ 0
+ESP_UART_RX
+Text GLabel 8600 1650 2    50   Input ~ 0
+EST_UART_TX
+Wire Wire Line
+	8600 1650 8400 1650
+Wire Wire Line
+	8400 1750 8600 1750
+Wire Wire Line
+	8800 3850 8800 3950
+Wire Wire Line
+	8800 3950 8950 3950
+Wire Wire Line
+	8400 3850 8800 3850
+Wire Wire Line
+	8950 4050 8700 4050
+Wire Wire Line
+	8700 4050 8700 3950
+Wire Wire Line
+	8400 3950 8700 3950
+Wire Wire Line
+	8900 4150 8950 4150
+Text Label 8500 3750 0    50   ~ 0
+IMU_INT2
+Text Label 8500 3650 0    50   ~ 0
+IMU_INT1
 $EndSCHEMATC
