@@ -1,4 +1,4 @@
-update=Monday, April 06, 2020 at 03:16:29 PM
+update=Wednesday, April 08, 2020 at 09:52:11 AM
 version=1
 last_client=kicad
 [general]
@@ -262,7 +262,7 @@ PageLayoutDescrFile=
 PlotDirectoryName=/Users/eddie/Documents/kclock/kclock_sch.pdf
 SubpartIdSeparator=0
 SubpartFirstId=65
-NetFmtName=
+NetFmtName=Pcbnew
 SpiceAjustPassiveValues=0
 LabSize=50
 ERC_TestSimilarLabels=1

@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 4 4
+Sheet 4 5
 Title ""
 Date ""
 Rev ""
@@ -1002,6 +1002,22 @@ F 3 "" H 1550 5100 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	1550 5100 1550 5050
+Text GLabel 6800 3600 2    50   Input ~ 0
+K210_UART_RX
+Text GLabel 6800 3700 2    50   Input ~ 0
+K210_UART_TX
+Wire Wire Line
+	6800 3700 6600 3700
+Wire Wire Line
+	6600 3600 6800 3600
+Text GLabel 6800 3800 2    50   Input ~ 0
+IMU_INT1
+Text GLabel 6800 3900 2    50   Input ~ 0
+IMU_INT2
+Wire Wire Line
+	6800 3800 6600 3800
+Wire Wire Line
+	6600 3900 6800 3900
 Wire Bus Line
 	4250 4200 4250 4700
 Wire Bus Line
